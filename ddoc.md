@@ -30,9 +30,8 @@
 #### As a user, I want at least one pop culture topic to be discussed per stream.
 
 ## Narrative Design
-#### For each episode of the podcast, there will be a theme and a playlist for that theme. The main part of the podcast will consist of discussing the songs on that playlist and how the artists, the theme, or the art itself makes us feel. This can be a segway into telling personal stories 
-
-
+#### For each episode of the podcast, there will be a theme and a playlist for that theme. The main part of the podcast will consist of discussing the songs on that playlist and how the artists, the theme, or the art itself makes us feel. This can be a segway into telling personal stories that the viewers can relate to and comment on. This will also be an opportunity for things to be simply commical and fun. 
+#### After the discussion of the playlist, then a pop culture topic will be discussed. Again another opportunity for fun interaction with the views, opinions and entertaining discussion. 
 
 
 ## Technical Design
