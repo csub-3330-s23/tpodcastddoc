@@ -35,6 +35,7 @@
 
 
 ## Technical Design
+#### There will only be one camera for the livestream and all participating members of the podcast will be visible in frame. There will be two microphones and one sound board to control audio volume, sound, and sound effects. StreamLabs OBS will be used as the necessary software for live streaming and recording. Photoshop will be used for necessary overlays. There will be lights coming from behind the camera to create a bright effect in frame and to minimize any dark shadows coming from the other natural light in the room.
 
 ## Inspo Photos
 
